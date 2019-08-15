@@ -1,0 +1,144 @@
+#root {
+  -fx-padding: 15;
+  -fx-background-color: cornsilk;
+  -fx-background-image: url('1.jpg');
+  -fx-background-repeat: no-repeat;
+
+  -fx-background-position: center;
+  -fx-background-size: cover;
+  -fx-height: 100%; 
+  -fx-background-color: transparent;
+      
+  
+}
+
+
+
+#addanchor {
+    -fx-background-color: cornsilk;
+  -fx-background-image: url('35730117.jpg');
+  -fx-background-repeat: no-repeat;
+  -fx-opacity: 0.9;
+  -fx-background-position: center;
+  -fx-background-size: cover;
+  -fx-height: 100%; 
+  -fx-background-color: transparent;
+} 
+
+#fixanchor {
+    -fx-background-color: cornsilk;
+  -fx-background-image: url('backgroundfix.jpg');
+  -fx-background-repeat: no-repeat;
+  -fx-opacity: 0.9;
+  -fx-background-position: center;
+  -fx-background-size: cover;
+  -fx-height: 100%; 
+  -fx-background-color: transparent;
+} 
+
+#delanchor {
+    -fx-background-color: cornsilk;
+  -fx-background-image: url('background1.jpg');
+  -fx-background-repeat: no-repeat;
+  -fx-opacity: 0.7;
+  -fx-background-position: center;
+  -fx-background-size: cover;
+  -fx-height: 100%; 
+  -fx-background-color: transparent;
+} 
+
+.commonlabel {
+  -fx-margin: 30px;
+  
+  -fx-opacity: 0.5;
+}
+
+.commonTitle {
+    -fx-margin: 30px;
+  -fx-background-color: #2F4F4F;
+  -fx-color: white;
+}
+
+.commonfield {
+
+  
+  -fx-background-repeat: no-repeat;
+ 
+  -fx-opacity: 0.7;
+  -fx-color: white;
+  -fx-font-size: 20;
+
+}
+
+#listview {
+
+  -fx-background-repeat: no-repeat;
+  -fx-background-color: #2F4F4F;
+  -fx-opacity: 0.5;
+  -fx-color: #000000;
+  -fx-background-position: right center;
+  -fx-font-size: 20;
+}
+
+#textarea {
+  
+  -fx-background-color: #D8BFD8;
+  -fx-opacity: 0.5;
+}
+
+
+#textfield {
+  -fx-background-image:url('search1.png');
+  -fx-background-repeat: no-repeat;
+  
+  -fx-opacity: 0.5;
+  -fx-color: #000000;
+  -fx-background-position: right center;
+  -fx-font-size: 20;
+}
+
+#button1 {
+  -fx-graphic: url('them.5.png');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, top;
+  -fx-font-size: 20;
+
+}
+
+#button2 {
+  -fx-graphic: url('sua.5.png');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, top;
+  -fx-font-size: 20;
+}
+
+#button3 {
+  -fx-graphic: url('xoa.5.png');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, top;
+  -fx-font-size: 20;
+ 
+}
+
+
+#soundbtn {
+  -fx-graphic: url('speaker3.png');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, top;
+  -fx-font-size: 20;
+}
+
+#buttontran {
+  -fx-graphic: url('icontran.jpg');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, top;
+  -fx-font-size: 20;
+}
+
+.button {
+  
+  -fx-background-color: #A9A9A9;
+   -fx-opacity: 0.7;
+   -fx-color: #000000;
+   
+}

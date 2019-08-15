@@ -1,0 +1,20 @@
+hello	xin chao
+trash	rac
+translate	dich
+fence	hang rao
+transport	giao thong
+trade	thuong mai
+service	dich vu
+trace	dau vet
+track	am nhac
+drink	uong
+model	nguoi mau
+struct	cau truc
+tray	khay
+pillow	goi
+trauma	con soc
+travel	du lich
+nude	khoa than
+messenge	tin nhan
+traffic	giao thong
+train	dao tao

@@ -1,0 +1,35 @@
+.root {
+  -fx-padding: 15; 
+  -fx-background-color: cornsilk;
+}
+
+#textField {
+  -fx-background-image:url('search1.png');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: right center;
+  -fx-font-size: 20;
+}
+
+#button1 {
+  -fx-graphic: url('them.5.png');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, top;
+  -fx-font-size: 20;
+}
+
+#button2 {
+  -fx-graphic: url('sua.5.png');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: top ,center;
+  -fx-font-size: 20;
+}
+
+#button3 {
+  -fx-graphic: url('xoa.5.png');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, top;
+  -fx-font-size: 20;
+}
+
+
+

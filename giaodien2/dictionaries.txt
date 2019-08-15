@@ -1,0 +1,10 @@
+hello	xin chao
+night	buoi toi
+translate	dich
+struct	cau truc
+trash	rac
+transform	dich chuyen
+trace	dau vet
+information thong tin
+
+

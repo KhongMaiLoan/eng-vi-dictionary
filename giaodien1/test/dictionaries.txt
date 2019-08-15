@@ -1,0 +1,16 @@
+hello	xin chao
+night	buoi toi
+translate	dich
+struct	cau truc
+trash	rac
+transform	dich chuyen
+trace	dau vet
+information thong tin
+tray	khay
+trap	bay
+snoop	thia
+phon	dien thoai
+track	am nhac
+trade	thuong mai
+
+

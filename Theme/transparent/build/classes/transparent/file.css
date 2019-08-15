@@ -1,0 +1,8 @@
+.textarea {
+    -fx-background-color: rgba(53,89,119,0.4);
+    -fx-text-alignment: right;
+}
+
+.textarea .anchor  {
+    -fx-background-color: transparent;
+}

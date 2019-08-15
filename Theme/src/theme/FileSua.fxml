@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="fixanchor" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" opacity="0.98" prefHeight="545.0" prefWidth="750.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="theme.FileSuaController">
+   <children>
+      <Label layoutX="75.0" layoutY="200.0" prefHeight="39.0" prefWidth="222.0" styleClass="commonlabel" text="Nhập từ cần dịch " textFill="#fffefe">
+         <font>
+            <Font size="24.0" />
+         </font></Label>
+      <Label layoutX="75.0" layoutY="317.0" prefHeight="39.0" prefWidth="310.0" styleClass="commonlabel" text="Nhập từ chuyển nghĩa " textFill="WHITE">
+         <font>
+            <Font size="26.0" />
+         </font></Label>
+      <TextField fx:id="eng" centerShape="false" layoutX="417.0" layoutY="200.0" styleClass="commonfield" />
+      <TextField fx:id="vi" layoutX="417.0" layoutY="317.0" styleClass="commonfield" />
+      <Button fx:id="done" layoutX="316.0" layoutY="416.0" mnemonicParsing="false" onAction="#FixingWord" text="Button">
+         <font>
+            <Font size="25.0" />
+         </font></Button>
+      <Label id="fixlabel" alignment="CENTER" layoutX="244.0" layoutY="60.0" prefHeight="53.0" prefWidth="263.0" styleClass="commonTitle" text="Sửa từ vựng ">
+         <font>
+            <Font size="35.0" />
+         </font>
+      </Label>
+   </children>
+   <cursor>
+      <Cursor fx:constant="DEFAULT" />
+   </cursor>
+</AnchorPane>
